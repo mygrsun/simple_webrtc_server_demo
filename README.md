@@ -12,11 +12,11 @@
 
 
 
-#安装方法是:
+# 安装方法是:
 
 
 
-##基础组件安装
+## 基础组件安装
  
 ```
 yum install git gtk-doc  libffi-devel zlib-devel pcre-devel openssl-devel lrzsz boost-devel nginx 
@@ -24,7 +24,7 @@ yum group install "Development Tools"
 mkdir webrtcvoice
 cd webrtcvoice
 ```
-##库安装
+## 库安装
 glib安装
 注意这里要至少安装2.56版本，不能使用yum安装glib。
 ```
@@ -258,7 +258,7 @@ http {
 ```
 
 ## 其它
-###libnice 打开调试 方法
+### libnice 打开调试 方法
 文档在:https://nice.freedesktop.org/libnice/libnice-Debug-messages.html
 设置环境变量:
 export G_MESSAGES_DEBUG=all
