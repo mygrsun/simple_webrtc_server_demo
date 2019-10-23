@@ -1,5 +1,5 @@
 # simple_webrtc_server_demo
-在原有另外一个大神开发的基础上实现了最简单的webrtc网关，可以实现群组通话。https://www.jianshu.com/p/61e3c9e13456
+在原有另外一个大神开发的基础上实现了最简单的webrtc网关，可以实现群组通话。原先地址:https://www.jianshu.com/p/61e3c9e13456
 
 
 原有demo只能实现将一个服务端视频或语音文件，通过浏览器webrtc播放。这里增加了上行流，和流转发。
