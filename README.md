@@ -11,7 +11,9 @@
 
 之前的demo在windows下编译，我这边改为了在linux下编译。
 
+gatewayrtctest 是前端
 
+gateway 是服务端
 
 
 
